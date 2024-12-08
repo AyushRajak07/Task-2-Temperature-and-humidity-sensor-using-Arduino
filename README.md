@@ -39,4 +39,5 @@ This project demonstrates how to measure temperature and humidity using the DHT2
 - Smart homes and IoT systems  
 - Environmental research projects  
 
-Feel free to customize and expand the project as needed. Contributions are welcome!  
+![Uploading New Arduino Uno Project - Wokwi Simulator - Google Chrome 08-12-2024 19_27_43.png…]()
+
